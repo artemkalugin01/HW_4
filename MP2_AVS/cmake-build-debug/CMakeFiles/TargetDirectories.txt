@@ -1,0 +1,3 @@
+/Users/artemkalugin/Git/HW_4/MP2_AVS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/artemkalugin/Git/HW_4/MP2_AVS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/artemkalugin/Git/HW_4/MP2_AVS/cmake-build-debug/CMakeFiles/MP2_AVS.dir
